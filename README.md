@@ -1,2 +1,2 @@
-# Caf-Prosa
+# Cafe & Prosa
 Site do nossa cafeteria
